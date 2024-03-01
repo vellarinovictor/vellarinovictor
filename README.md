@@ -8,6 +8,7 @@
   Puedo usar y configurar bases de datos en Microsoft Access, así como diseñar bases de datos y normalizarlas.  
   En [PROGRAMACIÓN](https://github.com/vellarinovictor/PROGRAMACION) se encuentran todos mis proyectos actualmente en Java.
 
+```mermaid
 classDiagram
   class ElectricEquipment {
     + name: String
@@ -40,3 +41,4 @@ classDiagram
   style PowerGenerator fill:#66B2FF
   style TransmissionLine fill:#66B2FF
   style ElectricSupplyProgram fill:#FFD700
+```

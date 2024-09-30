@@ -8,37 +8,4 @@
   Puedo usar y configurar bases de datos en Microsoft Access, así como diseñar bases de datos y normalizarlas.  
   En [PROGRAMACIÓN](https://github.com/vellarinovictor/PROGRAMACION) se encuentran todos mis proyectos actualmente en Java.
 
-```mermaid
-classDiagram
-  class ElectricEquipment {
-    + name: String
-    + performOperation(): void
-    + showGeneralInformation(): void
-    + toString(): String
-  }
 
-  class PowerGenerator {
-    + capacity: int
-    + performOperation(): void
-    + toString(): String
-  }
-
-  class TransmissionLine {
-    + length: int
-    + performOperation(): void
-    + toString(): String
-  }
-
-  class ElectricSupplyProgram {
-    + main(args: String[]): void
-  }
-
-  ElectricEquipment <|-- PowerGenerator
-  ElectricEquipment <|-- TransmissionLine
-  ElectricSupplyProgram --> ElectricEquipment
-
-  style ElectricEquipment fill:#77DD77
-  style PowerGenerator fill:#66B2FF
-  style TransmissionLine fill:#66B2FF
-  style ElectricSupplyProgram fill:#FFD700
-```

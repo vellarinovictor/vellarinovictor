@@ -10,7 +10,7 @@
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vellarinovictor&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
+  <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vellarinovictor&theme=tokyonight" alt="GitHub Streak" /></a>
 </td>
 

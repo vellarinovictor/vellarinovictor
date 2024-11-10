@@ -4,7 +4,7 @@
 
 | Stats & Streaks | Lenguages |
 |---|---|
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=vellarinovictor&theme=dark&show_icons=true&count_private=true) <br> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vellarinovictor&theme=tokyonight) | ![Most Used Lenguages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=vellarinovictor&theme=dark&hide_border=false&no-bg=true&no-frame=true) |
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=vellarinovictor&theme=dark&show_icons=true&count_private=true) <br> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vellarinovictor&theme=tokyonight)](https://git.io/streak-stats) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vellarinovictor&theme=dark&hide_border=false&no-bg=true&no-frame=true) |
 
 
 

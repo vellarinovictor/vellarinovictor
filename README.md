@@ -20,8 +20,8 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vellarinovictor&theme=dark&show_icons=true&count_private=true" />
   <br>
     <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vellarinovictor&theme=dark" />
-</a>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=vellarinovictor&theme=dark" />
+    </a>
 
 </td>
 
@@ -33,6 +33,19 @@
 </tr>
 </table>
 <!--- stats (end) -->
+
+<div id="user-content-toc">
+  <ul align="center">
+    <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
+  </ul>
+</div>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,github,html,java,linux,md,mongodb,mysql,vscode,bootstrap,cs,eclipse,gitlab,gmail,idea,kotlin,laravel,php,phpstorm,powershell,twitter,unity,visualstudio,windows&perline=9" />
+  </a>
+</p>
 </p>
 
 

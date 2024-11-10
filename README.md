@@ -20,8 +20,9 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vellarinovictor&theme=dark&show_icons=true&count_private=true" />
   <br>
     <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=vellarinovictor"/>
-    </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=vellarinovictor&theme=dark" />
+</a>
+
 </td>
 
 <td width="50%" align="center">
